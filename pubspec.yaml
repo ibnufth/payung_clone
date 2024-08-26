@@ -1,0 +1,25 @@
+name: payung_clone
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  dropdown_button2: ^2.3.9
+  easy_stepper: ^0.8.5+1
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.7.0
+  intl: ^0.19.0
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
